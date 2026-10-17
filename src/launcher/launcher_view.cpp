@@ -2028,7 +2028,7 @@ void View::draw_footer(ui::Canvas &canvas, ui::Painter &paint) const
                             : busy == Busy::refreshing ? i18n::tr("Checking")
                             : !valid                   ? i18n::tr("Checking")
                             : model_.reconnecting()    ? i18n::tr("Reconnecting")
-                            : ready                    ? i18n::tr("Sunshine ready")
+                            : ready                    ? i18n::tr("Host ready")
                             : backend.online           ? i18n::tr("Pairing required")
                                                        : i18n::tr("Not answering");
         list.circle(kMargin + 8.0f, 1009.0f, 7.0f, dot);

@@ -71,7 +71,7 @@ templates={
 'Stop the game or app on the PC when leaving the stream.':'{Leave stream} → {Stop app} ({PCs})',
 'Stopping the app':'{Stop app}', 'Stream from your PC':'{PCs} → PS5', 'Sunshine PC':'Sunshine / {PCs}',
 'Sunshine did not answer':'Sunshine: {Offline}', 'Sunshine is not answering':'Sunshine: {Offline}',
-'Sunshine is reconnecting':'Sunshine: {Try again}', 'Sunshine port':'Sunshine: {Port}', 'Sunshine ready':'Sunshine: {Ready}',
+'Sunshine is reconnecting':'Sunshine: {Try again}', 'Sunshine port':'Sunshine: {Port}', 'Host ready':'Host: {Ready}',
 'Sunshine refused the request.':'Sunshine: {Warning}', 'Sunshine rejected the request.':'Sunshine: {Warning}',
 'Sunshine returned an empty list. Add apps in Sunshine, then try again.':'Sunshine / {Apps}: {None}. {Try again}',
 'Sunshine still has this PS5 in its list.':'Sunshine: PS5 / {Pairing}', "Sunshine's default is 47989":'Sunshine: 47989',
